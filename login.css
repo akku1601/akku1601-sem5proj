@@ -1,0 +1,27 @@
+form{
+	font-family: tahoma;
+	width:50%;
+	margin-top: 10%;
+	font-size: 20px;
+
+}
+
+.logo{
+	width: 380px;
+	margin-top: -50px;
+	padding-left: 27%;
+	padding-bottom: 13px;
+}
+
+h3{
+	color:white;
+
+}
+
+body{
+	background-image: url();
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	
+}
